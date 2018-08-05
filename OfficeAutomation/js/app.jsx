@@ -1,11 +1,4 @@
-﻿/*let App = React.createClass({
-  render: function () {
-    return (
-      <h1>Hello world!</h1> 
-    )
-  }
-})*/
-import React from 'react'
+﻿import React from 'react'
 import ReactDOM from 'react-dom'
 
 export default class App extends React.Component {
